@@ -2,10 +2,6 @@
 
 'use strict';
 
-let numberOfFilms;
-
-'use strict';
-
 const personalMovieDB = {
     count: 0,
     movies: {},
